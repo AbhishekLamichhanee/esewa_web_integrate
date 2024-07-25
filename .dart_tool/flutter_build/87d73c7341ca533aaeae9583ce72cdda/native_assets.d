@@ -1,0 +1,1 @@
+ C:\\Users\\ABHISHEK\\Desktop\\fastlane\\flutter_test_riverpod\\esewa\\.dart_tool\\flutter_build\\87d73c7341ca533aaeae9583ce72cdda\\native_assets.yaml: 
